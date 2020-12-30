@@ -12,7 +12,7 @@ Implement Knurh-Morris_Pratt algorithm
 ### Windows
 Firstly, clone this repo on your computer
 ```
-git clone https://github.com/23MiRRoX06/algorithms_third_lab_wedding && cd algorithms_third_lab_wedding/bin
+git clone https://github.com/23MiRRoX06/algorithms_fifth_lab_kmp_search && cd algorithms_fifth_lab_kmp_search/bin
 ```
 ```
 ./main.exe
